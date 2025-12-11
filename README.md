@@ -20,14 +20,14 @@ battery_remainder/
 │
 ├── src/
 │   ├── main.py                
-│   ├── analytics.py            # Analytics + click logs
+│   ├── analytics.py            
 │   ├── __init__.py               
-│   └── dynamo.py                # (Unused after AWS removal)
+│   └── dynamo.py               
 |
 ├── data/
-│   ├── locks.json               # Simulated lock states
-│   ├── sent_notifications.json      # Notification history
-│   └── click_logs.json             # Click tracking (new)
+│   ├── locks.json              
+│   ├── sent_notifications.json      
+│   └── click_logs.json            
 │
 └── README.md
 
