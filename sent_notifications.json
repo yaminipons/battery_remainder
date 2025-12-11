@@ -1,0 +1,77 @@
+[
+    {
+        "lock_id": "12345",
+        "campaign_id": "c2a18617-150b-4b26-95f2-c9c97d5f6ee3",
+        "timestamp": "2025-12-11T17:20:22.034388"
+    },
+    {
+        "lock_id": "98765",
+        "campaign_id": "c2a18617-150b-4b26-95f2-c9c97d5f6ee3",
+        "timestamp": "2025-12-11T17:20:22.035374"
+    },
+    {
+        "lock_id": "55555",
+        "campaign_id": "c2a18617-150b-4b26-95f2-c9c97d5f6ee3",
+        "timestamp": "2025-12-11T17:20:22.054927"
+    },
+    {
+        "lock_id": "12345",
+        "campaign_id": "11cc6ebf-2204-4d36-b3ee-8ec1ef3aea47",
+        "timestamp": "2025-12-11T17:25:12.854095"
+    },
+    {
+        "lock_id": "98765",
+        "campaign_id": "11cc6ebf-2204-4d36-b3ee-8ec1ef3aea47",
+        "timestamp": "2025-12-11T17:25:12.872697"
+    },
+    {
+        "lock_id": "55555",
+        "campaign_id": "11cc6ebf-2204-4d36-b3ee-8ec1ef3aea47",
+        "timestamp": "2025-12-11T17:25:12.895128"
+    },
+    {
+        "lock_id": "12345",
+        "campaign_id": "a74aeabb-e79b-410d-be79-dacd492a37e9",
+        "timestamp": "2025-12-11T17:29:19.289493"
+    },
+    {
+        "lock_id": "98765",
+        "campaign_id": "a74aeabb-e79b-410d-be79-dacd492a37e9",
+        "timestamp": "2025-12-11T17:29:19.312797"
+    },
+    {
+        "lock_id": "55555",
+        "campaign_id": "a74aeabb-e79b-410d-be79-dacd492a37e9",
+        "timestamp": "2025-12-11T17:29:19.339441"
+    },
+    {
+        "lock_id": "12345",
+        "campaign_id": "3d69c9eb-4622-4199-9671-11df63647ba1",
+        "timestamp": "2025-12-11T17:32:43.419630"
+    },
+    {
+        "lock_id": "98765",
+        "campaign_id": "3d69c9eb-4622-4199-9671-11df63647ba1",
+        "timestamp": "2025-12-11T17:32:43.458175"
+    },
+    {
+        "lock_id": "55555",
+        "campaign_id": "3d69c9eb-4622-4199-9671-11df63647ba1",
+        "timestamp": "2025-12-11T17:32:43.479823"
+    },
+    {
+        "lock_id": "12345",
+        "campaign_id": "c8f9383c-6dbd-4870-a442-dd0407a8d07d",
+        "timestamp": "2025-12-11T17:45:08.063893"
+    },
+    {
+        "lock_id": "98765",
+        "campaign_id": "c8f9383c-6dbd-4870-a442-dd0407a8d07d",
+        "timestamp": "2025-12-11T17:45:08.065889"
+    },
+    {
+        "lock_id": "55555",
+        "campaign_id": "c8f9383c-6dbd-4870-a442-dd0407a8d07d",
+        "timestamp": "2025-12-11T17:45:08.088494"
+    }
+]
