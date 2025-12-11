@@ -17,18 +17,15 @@ Clean and modular Python structure
 
 📂 Project Structure
 battery_remainder/
-│
 ├── src/
 │   ├── main.py                
 │   ├── analytics.py            
 │   ├── __init__.py               
 │   └── dynamo.py               
-|
 ├── data/
 │   ├── locks.json              
 │   ├── sent_notifications.json      
 │   └── click_logs.json            
-│
 └── README.md
 
 🚀 **How It Works**
